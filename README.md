@@ -17,7 +17,7 @@ source venv/bin/activate
 To install the project dependencies, execute:
 
 ```shell
-pip install . -r requirements.txt
+pip install -r requirements.txt
 ```
 
 # Running Tests
